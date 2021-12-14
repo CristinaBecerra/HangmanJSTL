@@ -1,5 +1,8 @@
 # HangmanJSTL
- ·Play the game and store your results in a session.      ·Generate random words from a XML file      ·See your previous score      ·I designed the website with CSS3
+ ·Play the game and store your results in a session.   <br>
+ ·Generate random words from a XML file  <br>
+ ·See your previous score   <br>
+ ·Choose new word when you win (from the ones you haven't play already) <br>
 
 # TO RUN THIS PROJECT:
   -->Install Tomcat <br>
