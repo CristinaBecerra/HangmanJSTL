@@ -11,3 +11,15 @@
   
   
 # TO SEE HOW THIS APP LOOKS:
+
+<h2>LOGIN</h2>
+<img src="screenshots/Login.PNG" width="550">
+
+<h2>FIRST GAME</h2>
+<img src="screenshots/FirstGame.PNG" width="550">
+
+<h2>PLAYING...</h2>
+<img src="screenshots/Playing.PNG" width="550">
+
+<h2>WINNER!</h2>
+<img src="screenshots/Winner.PNG" width="550">
